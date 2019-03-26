@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+*
+{
+  font-family: Gymkhana, sans-serif;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Gymkhana;
+  src: local("Gymkhana"),
+      url("fonts/gymkhana-bk.ttf") format("truetype");
+
+}
+
